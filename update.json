@@ -1,1 +1,1 @@
-{"versionCode": 6, "versionName": "1.2.1", "apkUrl": "https://github.com/cashmoneymilan/blackbox-tv/releases/download/v1.2.1/BlackBox-TV.apk", "notes": "Fixes the layout on real TVs: everything now sizes to your screen, text sits centred, and scrolling no longer breaks the page."}
+{"versionCode": 7, "versionName": "1.2.2", "apkUrl": "https://github.com/cashmoneymilan/blackbox-tv/releases/download/v1.2.2/BlackBox-TV.apk", "notes": "Text sits centred in every button, the arrow keys always work, and the top bar never covers the page."}
