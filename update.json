@@ -1,1 +1,1 @@
-{"versionCode": 12, "versionName": "1.3.1", "apkUrl": "https://github.com/cashmoneymilan/blackbox-tv/releases/download/v1.3.1/BlackBox-TV.apk", "notes": "Live sports no longer play double audio, and the TV stays awake while anything is playing."}
+{"versionCode": 13, "versionName": "1.3.2", "apkUrl": "https://github.com/cashmoneymilan/blackbox-tv/releases/download/v1.3.2/BlackBox-TV.apk", "notes": "Live sports run lighter: the stream page is closed once BlackBox's player takes over. If anything goes wrong mid-game, BlackBox now tells you what happened next time you open it."}
